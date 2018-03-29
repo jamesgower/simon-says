@@ -1,7 +1,7 @@
 # Simon Says Game
 
-## Usage
-To install, clone the repository and run `npm install`. Once installed, run `npm start` to start the local server.
+## Installation
+To install the application, clone the repository, navigate to the relevant directory and run `npm install` in the terminal. Once installed, run `npm run start` in the terminal to start the local server.
 
 ## Technologies
   - React
@@ -9,3 +9,4 @@ To install, clone the repository and run `npm install`. Once installed, run `npm
   - React-DOM
   - Webpack
   - Chokidar
+  - Create-React-App
